@@ -45,4 +45,5 @@ $ git pull
 
 ```bash
 $ git flow feature finish <feature>
+$ git push
 ```
